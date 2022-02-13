@@ -1,6 +1,6 @@
 # Markdown-Cheatsheet
 ```Link```
-[The Ultimate Markdown Cheat Sheet](https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md)
+[The Ultimate Markdown Cheat Sheet]https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/blob/master/README.md)
 
 
 <!-- 
@@ -209,7 +209,7 @@ A table with multiple lines
 A table with multiple lines
 Links
 We can create a link in four ways. The first one is by using an inline style. The second one uses reference style, the third one using relative links, and finally auto links.
-[The-Ultimate-Markdown-Cheat-Sheet (https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md)
+[The-Ultimate-Markdown-Cheat-Sheet https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/blob/master/README.md)
 Inline-style
 Inline-style
 If you’re using the same link more the once, then using the reference style would be beneficial since you don’t have to write the link every time, and also, it’s easy to update the link. Moreover, you can use numbers for the reference text. Also, you can use the reference text as the link text.
@@ -691,10 +691,10 @@ Default    | Left align | Center align | Right align
 # Links
 
 ```
-[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md)
+[The-Ultimate-Markdown-Cheat-Sheet]https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/blob/master/README.md)
 ```
 
-[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md)
+[The-Ultimate-Markdown-Cheat-Sheet]https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/blob/master/README.md)
 
 ```
 [The-Ultimate-Markdown-Cheat-Sheet][reference text]
