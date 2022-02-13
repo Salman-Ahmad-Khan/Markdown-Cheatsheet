@@ -209,16 +209,16 @@ A table with multiple lines
 A table with multiple lines
 Links
 We can create a link in four ways. The first one is by using an inline style. The second one uses reference style, the third one using relative links, and finally auto links.
-[The-Ultimate-Markdown-Cheat-Sheet (https://github.com/lifeparticle/Markdown-Cheatsheet)
+[The-Ultimate-Markdown-Cheat-Sheet (https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md)
 Inline-style
 Inline-style
 If you’re using the same link more the once, then using the reference style would be beneficial since you don’t have to write the link every time, and also, it’s easy to update the link. Moreover, you can use numbers for the reference text. Also, you can use the reference text as the link text.
 [The-Ultimate-Markdown-Cheat-Sheet][reference text]
 [The-Ultimate-Markdown-Cheat-Sheet][1]
 [Markdown-Cheat-Sheet]
-[reference text]: https://github.com/lifeparticle/Markdown-Cheatsheet
-[1]: https://github.com/lifeparticle/Markdown-Cheatsheet
-[Markdown-Cheat-Sheet]: https://github.com/lifeparticle/Markdown-Cheatsheet
+[reference text]: https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md
+[1]: https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md
+[Markdown-Cheat-Sheet]: https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md
 Three variations of reference-style
 Three variations of reference-style
 We can also create relative links with all relative link operands, such as ./ and ../.
@@ -548,7 +548,7 @@ public static String monthNames[] = {"January", "February", "March", "April", "M
 <h3 align="center"> My latest Medium posts </h3>
 ```
 
-<h3 align="center"> My latest Medium posts </h3>
+<h3 align="center"> My latest  posts </h3>
 
 
 # Tables
@@ -691,10 +691,10 @@ Default    | Left align | Center align | Right align
 # Links
 
 ```
-[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/Markdown-Cheatsheet)
+[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md)
 ```
 
-[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet)
+[The-Ultimate-Markdown-Cheat-Sheet](https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md)
 
 ```
 [The-Ultimate-Markdown-Cheat-Sheet][reference text]
@@ -703,9 +703,9 @@ Default    | Left align | Center align | Right align
 
 [Markdown-Cheat-Sheet]
 
-[reference text]: https://github.com/lifeparticle/Markdown-Cheatsheet
-[1]: https://github.com/lifeparticle/Markdown-Cheatsheet
-[Markdown-Cheat-Sheet]: https://github.com/lifeparticle/Markdown-Cheatsheet
+[reference text]: https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md
+[1]: https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md
+[Markdown-Cheat-Sheet]:https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md
 ```
 
 [The-Ultimate-Markdown-Cheat-Sheet][reference text]
@@ -714,9 +714,9 @@ Default    | Left align | Center align | Right align
 
 [Markdown-Cheat-Sheet]
 
-[reference text]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
-[1]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
-[Markdown-Cheat-Sheet]: https://github.com/lifeparticle/The-Ultimate-Markdown-Cheat-Sheet
+[reference text]:https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md
+[1]: https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md
+[Markdown-Cheat-Sheet]: https://github.com/Salman-Ahmad-Khan/Markdown-Cheatsheet/edit/master/README.md
 
 
 ```
